@@ -1,8 +1,60 @@
-# React + Vite
+\# Job Portal Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured job portal where users can sign in either as a **Job Seeker** or a **Recruiter**. Job Seekers can search and apply for jobs, while Recruiters can post job openings, manage applications, and hire candidates.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Job Seeker
+- Sign up and log in
+- Create and update profile
+- Search for jobs using filters
+- Apply for job listings
+- View application status
+
+### Recruiter
+- Sign up and log in
+- Create company profile
+- Post job openings
+- View applicants for each job
+- Hire applicants
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript / React (if applicable)
+- **Backend**: Node.js / Express (if applicable)
+- **Database**: MongoDB / MySQL / PostgreSQL (whichever used)
+- **Authentication**: JWT / Firebase Auth / OAuth
+- **Hosting**: Vercel / Netlify / Heroku / AWS (if applicable)
+
+## Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/yourusername/job-portal-app.git
+   cd job-portal-app
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables:**  
+   Create a `.env` file and add required configuration like database URL, secret keys, etc.
+
+4. **Run the app:**
+   ```bash
+   npm start
+   ```
+
+## Screenshots
+
+_Add screenshots or demo gif of your app here if available._
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+**Contributions are welcome! Feel free to fork and improve the project.**

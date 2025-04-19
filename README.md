@@ -20,11 +20,11 @@ A full-featured job portal where users can sign in either as a **Job Seeker** or
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript / React (if applicable)
-- **Backend**: Node.js / Express (if applicable)
-- **Database**: MongoDB / MySQL / PostgreSQL (whichever used)
-- **Authentication**: JWT / Firebase Auth / OAuth
-- **Hosting**: Vercel / Netlify / Heroku / AWS (if applicable)
+- **Frontend**: HTML, CSS, JavaScript / React
+- **Backend**: Node.js 
+- **Database**: MongoDB
+- **Authentication**: JWT / OAuth
+- **Hosting**: Vercel / Netlify 
 
 ## Getting Started
 
